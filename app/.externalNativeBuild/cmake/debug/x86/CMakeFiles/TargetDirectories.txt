@@ -1,0 +1,3 @@
+C:/Users/remio/Desktop/typeofmood-ime-master/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/jni_latinime.dir
+C:/Users/remio/Desktop/typeofmood-ime-master/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/remio/Desktop/typeofmood-ime-master/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

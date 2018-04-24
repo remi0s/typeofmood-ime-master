@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\xml-land\\kbd_phone.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\xml-land\\kbd_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\xml-land\\kbd_phone_symbols.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\xml-land\\kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\xml-land\\kbd_number.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\xml-land\\kbd_number.xml"
+    }
+]

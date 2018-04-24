@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"રદ કરો"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"ઓકે"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"સાઇન આઉટ કરો"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"વાપરવા માટે એક એકાઉન્ટ પસંદ કરો"</string>
+    <string msgid="2846876462199625974" name="account_selected">"હાલમાં <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g> વાપરી રહ્યાં છે"</string>
+    <string msgid="8299699805688017798" name="add">"ઉમેરો"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"કૃપા કરીને આ સુવિધા સક્ષમ કરવા માટે આ ઉપકરણ પર Google એકાઉન્ટ ઉમેરો"</string>
+    <string msgid="6163126614514489951" name="add_style">"શૈલી ઉમેરો"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android જોડણી ચકાસનાર સેટિંગ્સ (TypeOfMood)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"કીબોર્ડ છૂપાયેલ છે"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"<ns1:g id="KEYBOARD_MODE">%s</ns1:g> કીબોર્ડ દર્શાવી રહ્યું છે"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"સ્વતઃ-કેપિટલાઇઝેશન"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"દરેક વાક્યનો પ્રથમ શબ્દ કેપિટલ કરો"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"સ્વતઃ-સુધારો"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"સ્પેસબાર અને વિરામચિહ્ન ખોટી રીતે લખાયેલ શબ્દોને આપમેળે સુધારે છે"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"જોરદાર"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"વિનમ્ર"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"બંધ"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"ખૂબ ફરજ પાડીને"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"આગલા શબ્દનું સૂચન"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"સૂચનો બનાવવા માટે પહેલાનાં શબ્દનો ઉપયોગ કરો"</string>
+    <string msgid="3988017840431881491" name="button_default">"ડિફોલ્ટ"</string>
+    <string msgid="6830980399865683324" name="cancel">"રદ કરો"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"રદ કરો"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"શબ્દકોશ સેવા સાથે કનેક્ટ થવામાં સમસ્યા"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"તાજું કરો"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"મેઘમાંથી તમારો સમન્વયિત ડેટા કાઢી નાખવામાં આવશે. શું તમે ખરેખર આ કરવા માંગો છો?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"કાઢી નાખો"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Google માંથી તમારો સમન્વયિત ડેટા કાઢી નાખે છે"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"મેઘ ડેટા કાઢી નાખો"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"રદ કરો"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"તમારો વ્યક્તિગત શબ્દકોશનો Google સર્વર્સ પર બેક અપ લેવાશે અને સમન્વયિત કરવામાં આવશે. અમારા ઉત્પાદનોને બહેતર બનાવવામાં સહાય માટે શબ્દ આવૃત્તિની આંકડાકીય માહિતી ભેગી કરવામાં આવી શકે છે. બધી માહિતીનો સંગ્રહ અને ઉપયોગ "<a href="https://www.google.com/policies/privacy">"Google ની ગોપનીયતા નીતિ"</a>"ની સાથે સુસંગત હશે."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"સમન્વયન ચાલુ કરેલ છે"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"સમગ્ર ઉપકરણો પર તમારા વ્યક્તિગત શબ્દકોશને સિંક કરો"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"વ્યવસાય એકાઉન્ટ્સ માટે Google Apps સાથેના ઉપકરણો માટે સમન્વયન ઉપલબ્ધ નથી"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google કીબોર્ડ સમન્વયન"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"એડ-ઓન શબ્દકોશ"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"ઇનપુટ પદ્ધતિઓ ગોઠવો"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"સમાન ઇનપુટ શૈલી પહેલાથી જ અસ્તિત્વમાં છે: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"તમારી કસ્ટમ ઇનપુટ શૈલી તમે તેનો ઉપયોગ કરવાનું શરૂ કરો તે પહેલા સક્ષમ કરવાની જરૂર છે. શું તમે તેને સક્ષમ કરવા માંગો છો?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"કસ્ટમ ઇનપુટ શૈલીઓ"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"વપરાશકર્તા શબ્દકોશ"</string>
+    <string msgid="756853268088330054" name="delete_dict">"કાઢી નાખો"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"સમીક્ષા કરવા અને ડાઉનલોડ કરવા માટે દબાવો"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> માટે એક શબ્દકોશ ઉપલબ્ધ છે"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"શબ્દકોશ ઉપલબ્ધ છે"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"ઇન્સ્ટોલ કર્યું, અક્ષમ કર્યું"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"હાલમાં ડાઉનલોડ કરી રહ્યું છે"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"શબ્દકોશ ઉપલબ્ધ છે"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"ઇન્સ્ટોલ કરેલું"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"શબ્દકોશ પ્રદાતા"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"શબ્દકોશ સેવા"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"શબ્દકોશો માટેની સેટિંગ્સ"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"એડ-ઓન શબ્દકોશ"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"વાઇ-ફાઇ પર ડાઉનલોડ કરો"</string>
+    <string msgid="6014835283119198591" name="download_description">"શબ્દકોશ અપડેટ માહિતી"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"હમણાં ડાઉનલોડ કરો (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"વ્યક્તિગત શબ્દકોશ"</string>
+    <string msgid="5031294444630523247" name="enable">"સક્ષમ કરો"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> બહેતર બનાવો"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"વિભાજિત કીબોર્ડ સક્ષમ કરો"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"ઇનપુટ વિકલ્પો"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android કીબોર્ડ (TypeOfMood)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android કીબોર્ડ સેટિંગ્સ (TypeOfMood)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"ગતિશીલ ફ્લોટિંગ પૂર્વાવલોકન"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"હાવભાવ કરતી વખતે સૂચિત શબ્દ જુઓ"</string>
+    <string msgid="826951152254563827" name="gesture_input">"સાંકેતિક ટાઇપિંગ સક્ષમ કરો"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"અક્ષરો મારફતે સ્લાઇડ કરીને એક શબ્દ ઇનપુટ કરો"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"હાવભાવ ટ્રેલ બતાવો"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"શબ્દસમૂહ હાવભાવ"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"સ્પેસ કી પર જઈને હાવભાવ દરમિયાન સ્પેસ ઇનપુટ કરો"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"સેટિંગ્સ"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"શબ્દકોશ ઉપલબ્ધ છે"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"સહાય અને પ્રતિસાદ"</string>
+    <string msgid="2645988432867033007" name="hint_add_to_dictionary">"સાચવવા માટે ફરીથી ટૅપ કરો"</string>
+    <string msgid="6710206006427574423" name="hint_add_to_dictionary_without_word">"સાચવવા માટે અહીં ટૅપ કરો"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"અન્ય ઇનપુટ પદ્ધતિઓ પર સ્વિચ કરો"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"ભાષા સ્વિચ કી અન્ય ઇનપુટ પદ્ધતિઓને પણ આવરે છે"</string>
+    <string msgid="180852772562189365" name="install_dict">"ઇન્સ્ટોલ કરો"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"ડિફોલ્ટ"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"કી પોપઅપ કાઢી નાખવામાં વિલંબ"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"કોઈ વિલંબ નથી"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"કીબોર્ડ થીમ"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"લેઆઉટ"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"તારીખ"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"તારીખ અને સમય"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"ઇમેઇલ"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"મેસેજિંગ"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"નંબર"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"ફોન"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"ટેક્સ્ટ કરો"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"સમય"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"કીબોર્ડ થીમ"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"થઈ ગયું"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"જાઓ"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"આગલું"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"થોભો"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"પહેલાંનું"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"શોધ"</string>
+    <string msgid="482252074224462163" name="label_send_key">"મોકલો"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"રાહ જુઓ"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"ભાષાઓ"</string>
+    <string msgid="730467549913588780" name="last_update">"છેલ્લે અપડેટ કર્યું"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"મુખ્ય શબ્દકોશ"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"મુખ્ય શબ્દકોશ"</string>
+    <string msgid="5638680861387748936" name="message_loading">"લોડ કરી રહ્યું છે..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"અપડેટ્સ માટે તપાસી રહ્યું છે"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"કોઈ એકાઉન્ટ પસંદ કરેલ નથી"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"કોઈ શબ્દકોશ ઉપલબ્ધ નથી"</string>
+    <string msgid="6172462888202790482" name="not_now">"હમણાં નહીં"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"કીપ્રેસ પર પોપઅપ"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"સંભવિત વાંધાજનક શબ્દો સૂચવશો નહીં"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"વાંધાજનક શબ્દો બ્લૉક કરો"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"ભૌતિક કીબોર્ડ માટે ઇમોજી"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"ભૌતિક Alt કી ઇમોજી પેલેટ દર્શાવે છે"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"લાંબા કી પ્રેસનો વિલંબ"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"કીપ્રેસ ધ્વનિ વૉલ્યૂમ"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"કીપ્રેસ વાઇબ્રેશન અવધિ"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"સુધારણા સૂચનો બતાવો"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"લખતી વખતે સૂચિત શબ્દો પ્રદર્શિત કરો"</string>
+    <string msgid="4486081658752944606" name="remove">"દૂર કરો"</string>
+    <string msgid="7646738597196767214" name="save">"સાચવો"</string>
+    <string msgid="5709487854987078367" name="select_language">"ભાષાઓ"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"એકાઉન્ટ્સ અને ગોપનીયતા"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"વિગતવાર"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"દેખાવ અને લેઆઉટ્સ"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"ટેક્સ્ટ સુધારણા"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"સાંકેતિક ટાઇપિંગ"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"પસંદગી"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"થીમ"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"સિસ્ટમ ડિફોલ્ટ"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"સમાપ્ત થયું"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"આગલું પગલું"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"પ્રારંભ કરો"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"સેટિંગ્સમાં સક્ષમ કરો"</string>
+    <string msgid="8701441895377434947" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> એ તમારી ભાષાઓ અને ઇનપુટ સેટિંગ્સમાં પહેલાથી જ સક્ષમ કરેલું છે, તેથી આ પગલું પૂર્ણ થયું. હવે આગલા પર!"</string>
+    <string msgid="4295448056733329661" name="setup_step1_instruction">"કૃપા કરીને \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" ને તમારી ભાષાઓ અને ઇનપુટ સેટિંગ્સમાં તપાસો. આ તેને તમારા ઉપકરણ પર ચાલવા માટે અધિકૃત કરશે."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> સક્ષમ કરો"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"ઇનપુટ પદ્ધતિઓ પર સ્વિચ કરો"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"આગલું, \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" ને તમારા સક્રિય ટેક્સ્ટ-ઇનપુટ પદ્ધતિ તરીકે પસંદ કરો."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> પર સ્વિચ કરો"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"વધારાની ભાષાઓ ગોઠવો"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"હવે તમે તમારી મનપસંદ એપ્લિકેશન્સમાં <ns1:g id="APPLICATION_NAME">%s</ns1:g> થી ટાઇપ કરી શકો છો."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"અભિનંદન, તમે બધું સેટ કર્યું છે!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> સેટ કરી રહ્યું છે"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"સાંકેતિક ટાઇપિંગ દ્વારા"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> પર સ્વાગત છે"</string>
+    <string msgid="6737084685073734292" name="should_download_over_metered_prompt">"તમારા મોબાઇલ ઉપકરણ પર પસંદ કરેલ ભાષા પાસે એક શબ્દકોશ ઉપલબ્ધ છે.&lt;br/> અમે તમને તમારા લખાણ અનુભવને બહેતર બનાવવા માટે <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> શબ્દકોશ &lt;b>ડાઉનલોડ કરવાની&lt;/b> ભલામણ કરીએ છીએ.&lt;br/> &lt;br/> 3G પર ડાઉનલોડમાં એક કે બે મિનિટનો સમય લાગશે. જો તમારી પાસે &lt;b>અસીમિત ડેટા પ્લાન&lt;/b> ન હોય તો શુલ્ક લાગી શકે છે.&lt;br/> જો તમે સુનિશ્ચિત ન હોવ કે તમારી પાસે કયો ડેટા પ્લાન છે, તો અમે ડાઉનલોડ આપમેળે પ્રારંભ કરવા માટે એક વાઇ-ફાઇ કનેક્શન શોધવાની ભલામણ કરીએ છીએ.&lt;br/> &lt;br/> ટિપ: તમે તમારા મોબાઇલ સાધનનાં મેનૂમાં &lt;b>સેટિંગ્સ&lt;/b>માંના &lt;b>ભાષાઓ અને ઇનપુટ&lt;/b> પર જઈને શબ્દકોશ ડાઉનલોડ કરી શકો છો અને દૂર કરી શકો છો."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"ભાષા સ્વિચ કી"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"જ્યારે બહુવિધ ઇનપુટ ભાષાઓ સક્ષમ હોય ત્યારે બતાવો"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"ઍપ્લિકેશન આયકન બતાવો"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"લોંચરમાં ઍપ્લિકેશન આયકન પ્રદર્શિત કરો"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"કીપ્રેસ પર ધ્વનિ"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android જોડણી ચકાસનાર (TypeOfMood)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"સ્ત્રીલિંગ ક્રમવાચક સૂચક"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"માઇક્રો ચિહ્ન"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"પુલિંગ ક્રમવાચક સૂચક"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"શાર્પ S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, ગ્રેવ"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, એક્યુટ"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, પરિવૃત્ત"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, ટિલ્ડ"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, ડાયાઇરેસિસ"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, ઉપર રિંગ"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, સંયુક્તાક્ષર"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, સિડિલા"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, ગ્રેવ"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, એક્યુટ"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, પરિવૃત્ત"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, ડાયાઇરેસિસ"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, ગ્રેવ"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, એક્યુટ"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, પરિવૃત્ત"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, ડાયાઇરેસિસ"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, ટિલ્ડ"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, ગ્રેવ"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, એક્યુટ"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, પરિવૃત્ત"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, ટિલ્ડ"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, ડાયાઇરેસિસ"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, સ્ટ્રોક"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, ગ્રેવ"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, એક્યુટ"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, પરિવૃત્ત"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, ડાયાઇરેસિસ"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, એક્યુટ"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"કાંટો"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, ડાયાઇરેસિસ"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, મેક્રોન"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, બ્રીવ"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, ઓગોનેક"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, એક્યુટ"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, પરિવૃત્ત"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, ઉપર ડોટ"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, કૅરોન"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, કૅરોન"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, સ્ટ્રોક"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, મૅક્રોન"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, બ્રીવ"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, ઉપર ડોટ"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, ઓગોનેક"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, કૅરોન"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, પરિવૃત્ત"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, બ્રીવ"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, ઉપર ડોટ"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, સિડિલા"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, પરિવૃત્ત"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, સ્ટ્રોક"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, ટિલ્ડ"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, મૅક્રોન"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, બ્રીવ"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, ઓગોનેક"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"ડોટ રહિત I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, સંયુક્તાક્ષર"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, પરિવૃત્ત"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, સિડિલા"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, એક્યુટ"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, સિડિલા"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, કૅરોન"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, વચ્ચે ડોટ"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, સ્ટ્રોક"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, એક્યુટ"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, સિડિલા"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, કૅરોન"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, એપોસ્ટ્રોફી દ્વારા અનુસરાયેલ"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, મૅક્રોન"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, બ્રીવ"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, બેવડુ એક્યુટ"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, સંયુક્તાક્ષર"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, એક્યુટ"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, સિડિલા"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, કૅરોન"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, એક્યુટ"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, પરિવૃત્ત"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, સિડિલા"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, કૅરોન"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, સિડિલા"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, કૅરોન"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, સ્ટ્રોક"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, ટિલ્ડ"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, મૅક્રોન"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, બ્રીવ"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, ઉપર રિંગ"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, બેવડું એક્યુટ"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, ઓગોનેક"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, પરિવૃત્ત"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, પરિવૃત્ત"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, એક્યુટ"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, ઉપર ડોટ"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, કૅરોન"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"લાંબો S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, હોર્ન"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, હોર્ન"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, નીચે અલ્પવિરામ"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, નીચે અલ્પવિરામ"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Schwa"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, નીચે ડોટ"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, ઉપર હૂક"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, પરિવૃત્ત અને એક્યુટ"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, પરિવૃત્ત અને ગ્રેવ"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, પરિવૃત્ત અને ઉપર હૂક"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, પરિવૃત્ત અને ટિલ્ડ"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, પરિવૃત્ત અને નીચે ડોટ"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, બ્રીવ અને એક્યુટ"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, બ્રીવ અને ગ્રેવ"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, બ્રીવ અને ઉપર હૂક"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, બ્રીવ અને ટિલ્ડ"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, બ્રીવ અને નીચે ડોટ"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, નીચે ડોટ"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, ઉપર હૂક"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, ટિલ્ડ"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, પરિવૃત્ત અને એક્યુટ"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, પરિવૃત્ત અને ગ્રેવ"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, પરિવૃત્ત અને ઉપર હૂક"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, પરિવૃત્ત અને ટિલ્ડ"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, પરિવૃત્ત અને નીચે ડોટ"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, ઉપર હૂક"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, નીચે ડોટ"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, નીચે ડોટ"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, ઉપર હૂક"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, પરિવૃત્ત અને એક્યુટ"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, પરિવૃત્ત અને ગ્રેવ"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, પરિવૃત્ત અને ઉપર હૂક"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, પરિવૃત્ત અને ટિલ્ડ"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, પરિવૃત્ત અને નીચે ડોટ"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, હોર્ન અને એક્યુટ"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, હોર્ન અને ગ્રેવ"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, હોર્ન અને ઉપર હૂક"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, હોર્ન અને ટિલ્ડ"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, હોર્ન અને નીચે ડોટ"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, નીચે ડોટ"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, ઉપર હૂક"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, હોર્ન અને એક્યુટ"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, હોર્ન અને ગ્રેવ"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, હોર્ન અને ઉપર હૂક"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, હોર્ન અને ટિલ્ડ"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, હોર્ન અને નીચે ડોટ"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, ગ્રેવ"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, નીચે ડોટ"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, ઉપર હૂક"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, ટિલ્ડ"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g>, <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> ને <ns1:g id="CORRECTED_WORD">%3$s</ns1:g> થી સુધારે છે"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> સ્વતઃસુધારો કરે છે"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"વૈકલ્પિક અક્ષરો કાઢી નાખવામાં આવે છે"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"વૈકલ્પિક સૂચનો કાઢી નાખવામાં આવે છે"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"વર્તમાન ટેક્સ્ટ %s છે"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"આગલું"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"પહેલાનું"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"કાઢી નાખો"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"ડોટ"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"ઇમોજી"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"ભાષા સ્વિચ કરો"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"વોઇસ ઇનપુટ"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"અક્ષર મોડ"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"ફોન મોડ"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"ફોન પ્રતીક મોડ"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"પ્રતીક મોડ"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"વધુ પ્રતીક મોડ"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"પાછા ફરો"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"શોધ"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"સેટિંગ્સ"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps lock સક્ષમ"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift સક્ષમ"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Space"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"વધુ પ્રતીકો"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"પ્રતીકો"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"ટૅબ"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"અક્ષરો"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"આંકડાઓ"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"પ્રતીકો"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"અજાણ્યો અક્ષર"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"કેપિટલ <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="4795281669042975993" name="spoken_descrption_emoji_category_eight_activity">"પ્રવૃત્તિ"</string>
+    <string msgid="5844950234883716704" name="spoken_descrption_emoji_category_eight_animals_nature">"પ્રાણીઓ અને કુદરત"</string>
+    <string msgid="6196944764485349650" name="spoken_descrption_emoji_category_eight_food_drink">"ભોજન અને પીણાં"</string>
+    <string msgid="5682663819532433464" name="spoken_descrption_emoji_category_eight_smiley_people">"સ્માઇલી અને લોકો"</string>
+    <string msgid="3834085499381434611" name="spoken_descrption_emoji_category_eight_travel_places">"મુસાફરી અને જગ્યાઓ"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"ઇમોટિકન્સ"</string>
+    <string msgid="5971573825866381472" name="spoken_descrption_emoji_category_flags">"ફ્લેગ્સ"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"કુદરત"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"પદાર્થો"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"લોકો"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"સ્થાન"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"તાજેતરના"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"પ્રતીકો"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"કોપિરાઇટનું ચિહ્ન"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"નોંધાયેલ ચિહ્ન"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"મહાજોન ટાઇલ લાલ ડ્રેગન"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"રમવાના પત્તાનો કાળો જોકર"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"રક્તનો પ્રકાર A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"રક્તનો પ્રકાર B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"રક્તનો પ્રકાર O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"પાર્કિંગ સ્થળ"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"રક્તનો પ્રકાર AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"વર્ગાકાર CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"વર્ગાકાર કૂલ"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"વર્ગાકાર મફત"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"વર્ગાકાર ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"વર્ગાકાર નવું"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"વર્ગાકાર N G"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"વર્ગાકાર ઓકે"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"વર્ગાકાર SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"ઉદ્ગાર ચિહ્ન સાથે વર્ગાકાર ઉપર"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"વર્ગાકાર વિ."</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"અહીં વર્ગાકાર કાટાકના છે"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"વર્ગાકાર કાટાકના સેવા"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"વર્ગાકાર આઇડિઓગ્રાફ	 નિઃશુલ્ક"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"વર્ગાકાર આઇડિઓગ્રાફ	 આરક્ષિત-સીટ"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"વર્ગાકાર આઇડિઓગ્રાફ	 નિષેધ"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"વર્ગાકાર આઇડિઓગ્રાફ રિક્તિ"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"વર્ગાકાર આઇડિઓગ્રાફ સ્વીકૃતિ"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"વર્ગાકાર આઇડિઓગ્રાફ પૂર્ણ દખલ"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"વર્ગાકાર આઇડિઓગ્રાફ ચૂકવાયેલ"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"વર્ગાકાર આઇડિઓગ્રાફ માસિક"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"વર્ગાકાર આઇડિઓગ્રાફ ઍપ્લિકેશન"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"વર્ગાકાર આઇડિઓગ્રાફ ડિસ્કાઉન્ટ"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"વ્યવસાયમાં વર્ગાકાર આઇડિઓગ્રાફ"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"વર્તુળાકાર આઇડિઓગ્રાફ લાભ"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"વર્તુળાકાર આઇડિઓગ્રાફ સ્વીકાર"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"ચક્રવાત"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"ધુમ્મસવાળું"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"બંધ છત્રી"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"તારા સાથે રાત્રિ"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"પર્વતો પર સૂર્યોદય"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"સૂર્યોદય"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"અંધારાના સમયે સીટીસ્કેપ્સ"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"ભવનો પર સૂર્યાસ્ત"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"મેઘધનુષ"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"રાત્રિને સમય પૂલ"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"પાણીની લહેર"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"જ્વાળામુખી પર્વત"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"આકાશગંગા"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"પૃથ્વીનો ગોળો યુરોપ-આફ્રિકા"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"પૃથ્વીનો ગોળો અમેરિકાઝ"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"પૃથ્વીનો ગોળો એશિયા-ઓસ્ટ્રિલિયા"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"યામ્યોત્તર વૃત્તો ધરાવતો ગોળો"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"અમાસના ચંદ્રનું પ્રતીક"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"વધતા અર્ધચન્દ્રનું પ્રતીક"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"અર્ધચંદ્રનું પ્રતીક"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"વધતા બહિર્ગોળ ચંદ્રનું પ્રતીક"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"પૂનમના ચંદ્રનું પ્રતીક"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"ઘટતા બહિર્ગોળ ચંદ્રનું પ્રતીક"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"પા ભાગના ચંદ્રનું પ્રતીક"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"બીજના ચંદ્રનું પ્રતીક"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"બીજનો ચંદ્ર"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"ચહેરાવાળો અમાસનો ચંદ્ર"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"ચહેરાવાળો અર્ધચંદ્ર"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"ચહેરાવાળો પા ભાગનો ચંદ્ર"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"ચહેરાવાળો પૂનમનો ચંદ્ર"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"ચહેરાવાળો સૂર્ય"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"ચમકતો તારો"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"ખરતો તારો"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"બદામી રંગનું"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"ઉછેરેલો છોડ"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"લીલુંછમ ઝાડ"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"પાંદડા ખરેલ ઝાડ"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"તાડનું ઝાડ"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"થોર"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"ટ્યૂલિપ"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"ચેરી બ્લોસમ"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"ગુલાબ"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"જાસૂદ"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"સૂર્યમુખી"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"બ્લોસમ"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"મક્કાઈનો ડુંડો"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"ભાતનો ડુંડો"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"હર્બ"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"ચાર પાંખડીનું ફૂલ"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"મેપલ પર્ણ"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"ખરેલા પાંદડા"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"હવામાં ઝૂલતા પાંદડા"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"મશરૂમ"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"ટમેટા"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"રીંગણ"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"દ્રાક્ષ"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"ટેટી"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"તરબૂચ"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"નારંગી"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"લીંબુ"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"કેળા"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"પાઇનેપલ"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"લાલ સફરજન"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"લીલું સફરજન"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"નાસપતી"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"પીચ"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"ચેરીઝ"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"સ્ટ્રોબેરી"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"હેમબર્ગર"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"પીઝાની સ્લાઇસ"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"હાંડકા સાથે માંસ"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"મરગીનો પગ"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"રાઇસ ક્રેકર"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"રાઇસ બોલ"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"રાંધેલો ભાત"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"દાળ અને ભાત"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"વરાળ નીકળતો વાટકો"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"સ્પગેટી"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"બ્રેડ"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"ફ્રેન્ચ ફ્રાઇઝ"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"શેકોલો શક્કારિયો"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"ડાંગો"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"ઓડેન"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"સુશી"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"ફ્રાઇડ ઝીંગા"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"ગોળ ગોળ ડિઝાઇન વાળી ફિશ કેક"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"સોફ્ટ આઇસ ક્રીમ"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"છીણેલો બરફ"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"આઇસક્રીમ"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"ડોગનટ"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"કૂકી"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"ચોકલેટ બાર"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"કેન્ડી"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"લોલીપોપ"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"કસ્ટર્ડ"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"હની પોટ"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"શૉર્ટકેક"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"બેન્ટો બોક્સ"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"ભોજન ભરેલું વાસણ"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"રસોઈ"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"કાંટો અને છરી"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"હેન્ડલ વગરનો ચાનો કપ"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"સેકની બોટલ અને કપ"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"વાઇન ગ્લાસ"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"કોકટેલ ગ્લાસ"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"ગરમ પીણું"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"બિયર મગ"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"બિયરથી છલકાતા મગ"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"બેબી બોટલ"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"રિબન"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"લપેટેલ ઉપહાર"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"જન્મદિવસની કેક"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"જૅક-ઑ-લેન્ટર્ન"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"ક્રિસમસ ટ્રી"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"ફાધર ક્રિસમસ"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"ફટાકડા"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"ફટાકડાના તણખાં"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"ફુગ્ગો"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"પાર્ટી પોપર"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"કોન્ફેટી બોલ"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"તાનાબટા વૃક્ષ"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"ક્રોસ બનાવેલ ફ્લેગ્સ"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"પાઈન શણગાર"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"જાપાનીઝ ડોલ્સ"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"કાર્પ સ્ટ્રીમર"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"વિંડ ચાઇમ"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"ઉજવણીમાં ચંદ્રનું દ્રશ્ય"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"શાળાનું દફતર"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"ગ્રેજ્યુએશન કેપ"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"કેરોયુઝલ હોર્સ"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"ચકડોળ"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"રોલર કોસ્ટર"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"માછીમારી છડી અને માછલી"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"માઇક્રોફોન"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"મૂવી કૅમેરા"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"સિનેમા"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"હેડફોન"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"કલાકાર પેલેટ"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"લાંબી ટોપી"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"સર્કસનો તંબુ"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"ટિકિટ"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"ક્લેપર બોર્ડ"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"અભિનય કળાઓ"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"વીડિઓ રમત"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"ડાયરેક્ટ હિટ"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"સ્લોટ મશીન"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"બિલિયર્ડ્સ"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"ગેમ ડાઇ"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"બોલિંગ"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"ફ્લાવરવાળા રમવાના પત્તા"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"મ્યુઝિકલ નોટ"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"બહુવિધ મ્યુઝિકલ નોટ"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"સેક્સોફોન"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"ગિટાર"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"મ્યુઝિકલ કીબોર્ડ"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"ટ્રમ્પિટ"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"વાયોલિન"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"મ્યુઝિકલ સ્કોર"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"સ્લેશવાળો દોડતી વખતે પહેરવાનો શર્ટ"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"ટેનિસ રેકેટ અને બોલ"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"સ્કી અને સ્કી બુટ"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"બાસ્કેટબોલ અને હૂપ"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"ચટાપટ્ટાવાળો ધ્વજ"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"સ્નોબોર્ડર"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"રનર"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"સર્ફર"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"ટ્રોફી"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"હોર્સ રેસિંગ"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"અમેરિકન ફૂટબૉલ"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"રગ્બી ફૂટબૉલ"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"તૈરાક"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"મકાનની ઇમારત"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"બગીચા સાથેનું મકાન"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"કાર્યાલયની ઇમારત"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"જાપાનીઝ પોસ્ટ ઓફિસ"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"યુરોપિયન પોસ્ટ ઓફિસ"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"દવાખાનું"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"બૅંક"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"ઓટોમેટેડ ટેલર મશીન"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"હોટલ"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"પ્રેમ હોટેલ"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"સુવિધા સ્ટોર"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"શાળા"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"ડિપાર્ટમેન્ટ સ્ટોર"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"ફેક્ટરી"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"ઇઝકાયા લેન્ટર્ન"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"જાપાનીઝ કેસલ"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"યુરોપિયન કેસલ"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"ઉંદર"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"માઉસ"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"બળદ"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"પાણીમાંની ભેંસ"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"ગાય"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"ચિત્તા"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"સસલું"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"બિલાડી"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"ડ્રેગન"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"મગર"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"વ્હેલ"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"ગોકળગાય"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"સાપ"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"ઘોડો"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"ઘેટો"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"બકરી"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"ઘેટું"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"વાનર"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"પાળેલો કૂકડો"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"મરઘીનાં બચ્ચા"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"કૂતરો"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"ભૂંડ"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"ડુક્કર"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"હાથી"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"ઓક્ટોપસ"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"સર્પાકાર શેલ"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"નાનું જીવડું"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"કીડી"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"મધમાખી"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"ભમરી"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"માછલી"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"ટ્રોપિકલ માછલી"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"બ્લોફીશ"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"કાચબો"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"ઇંડામાંથી બહાર નીકળતું બચ્ચુ"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"નાનું બચ્ચુ"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"સામે-જોતું નાનું બચ્ચુ"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"પક્ષી"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"પેંગ્વિન"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"કોઆલા"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"પૂડલ"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"સવારી માટેનું ઊંટ"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"બેક્ટ્રિયન ઊંટ"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"ડોલ્ફિન"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"માઉસ ચહેરો"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"ગાયનો ચહેરો"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"વાઘનો ચહેરો"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"સસલાનો ચહેરો"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"બિલાડીનો ચહેરો"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"ડ્રેગનનો ચહેરો"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"સ્પોટિંગ વ્હેલ"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"ઘોડાનો ચહેરો"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"વાંદરાનો ચહેરો"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"કૂતરાનો ચહેરો"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"ભૂંડનો ચહેરો"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"દેડકાનો ચહેરો"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"હેમ્સ્ટરનો ચહેરો"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"વરુનો ચહેરો"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"રીંછનો ચહેરો"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"પાંડાનો ચહેરો"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"ભૂંડનું નાક"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"મોજાની છાપ"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"આંખો"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"કાન"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"નાક"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"મુખ"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"જીભ"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"સફેદ ઉપરની તરફનો બેકહેન્ડ ઇન્ડેક્સ"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"સફેદ નીચેની તરફનો બેકહેન્ડ ઇન્ડેક્સ"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"સફેદ ડાબી તરફનો બેકહેન્ડ ઇન્ડેક્સ"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"સફેદ જમણી તરફનો બેકહેન્ડ ઇન્ડેક્સ"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"મુક્કાના હાથનું ચિહ્ન"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"લહેરાતા હાથનું ચિહ્ન"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"ઓકે કહેતું હાથનું ચિહ્ન"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"ઉપર અંગૂઠાનું ચિહ્ન"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"નીચે અંગૂઠાનું ચિહ્ન"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"તાળી પાડતા હાથનું ચિહ્ન"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"ખુલ્લા હાથનું ચિહ્ન"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"મુગટ"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"સ્ત્રીઓની ટોપી"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"આંખનાં ચશ્મા"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"નેકટાઇ"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"ટી શર્ટ"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"જીન્સ"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"ડ્રેસ"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"કીમોનો"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"બીકીની"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"મહિલાનાં કપડાં"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"પર્સ"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"હેન્ડબેગ"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"પાઉચ"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"પુરુષોનાં જૂતા"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"એથલેટિક શૂ"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"ઉંચી એડીનાં શૂ"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"મહિલાઓની સેન્ડલ"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"મહિલાના બુટ"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"પગલાં"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"બસ્ટ ઇન સિલુએટ"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"બસ્ટ્સ ઇન સિલુએટ"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"છોકરો"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"છોકરી"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"માણસ"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"મહિલા"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"પરિવાર"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"હાથ પકડેલ સ્ત્રી અને પુરુષ"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"હાથ પકડેલા બે પુરુષ"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"હાથ પકડેલી બે મહિલા"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"પોલીસ અધિકારી"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"બની કાન સાથેની મહિલા"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"ઘુંઘટવાળી નવવધુ"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"સોનેરી વાળ વાળી વ્યક્તિ"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"ગુઆ પાઇ માઓ સાથે માણસ"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"પાઘડી સાથેનો માણસ"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"વૃદ્ધ માણસ"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"વૃદ્ધ મહિલા"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"બેબી"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"બાંધકામ કામદાર"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"રાજકુમારી"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"જાપાનીઝ ઓગરે"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Japanese goblin"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"ભૂત"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"નાનો દેવદૂત"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"બહારની દુનિયાના એલિયન"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"એલિયન રાક્ષસ"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Imp"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"ખોપરી"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"માહિતી ડેસ્કનો વ્યક્તિ"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"ચોકીદાર"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"નર્તક"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"લિપસ્ટિક"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"નેલ પોલીશ"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"ફેસ મસાજ"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"હેરકટ"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"બાર્બર પોલ"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"સિરીંજ"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"ગોળી"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"ચુંબનનું ચિહ્ન"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"પ્રેમ પત્ર"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"રિંગ વગાડો"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"નગીનો"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"ચુંબન"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"કલગી"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"હૃદય સાથે દંપતિ"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"લગ્ન"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"ધબકતું હૃદય"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"ભગ્ન હૃદય"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"બે હૃદય"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"ચમકતું હૃદય"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"ખીલતું હૃદય"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"તીર સાથે હૃદય"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"વાદળી હૃદય"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"લીલું હૃદય"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"પીળું હૃદય"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"જાંબલી હૃદય"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"રિબન સાથે હૃદય"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"ફરતું હૃદય"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"હૃદય શણગાર"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"અંદર એક ડોટ સાથે ડાયમન્ડ આકાર"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"ઇલેક્ટ્રિક લાઇટ બલ્બ"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"ક્રોધનું પ્રતીક"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"બૉમ્બ"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"ઉંઘતાનું પ્રતીક"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"અથડામણનું પ્રતીક"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"પરસેવાનાં છાંટા ઉડતાનું પ્રતીક"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"નાનું ટપકું"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"ડેશ પ્રતીક"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"પાઇલ ઑફ પૂ"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"વળેલા બાયસેપ્સ"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"ચક્કરનું પ્રતીક"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"વાણીનું બલૂન"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"વિચારનું બલૂન"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"સફેદ ફૂલ"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"100 પોઇન્ટ્સનું પ્રતીક"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"મની બેગ"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"ચલણ વિનિમય"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"ભારે ડોલર સાઇન"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"ક્રેડિટ કાર્ડ"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"યેન ચિહ્ન સાથેની બેંકનોટ"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"ડૉલર ચિહ્ન સાથેની બેંકનોટ"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"યુરો ચિહ્ન સાથેની બેંકનોટ"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"પાઉન્ડ ચિહ્ન સાથેની બેંકનોટ"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"પાંખો સાથે નાણાં"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"ઉપર તરફનું વલણ અને યેન ચિહ્ન સાથેનો ચાર્ટ"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"સીટ"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"વ્યક્તિગત કમ્પ્યુટર"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"બ્રીફકેસ"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"મિનિડિસ્ક"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"ફ્લોપી ડિસ્ક"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"ઓપ્ટિકલ ડિસ્ક"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"Dvd"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"ફાઇલ ફોલ્ડર"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"ખુલ્લુ ફાઇલ ફોલ્ડર"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"કર્લ સાથે પૃષ્ઠ"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"ઉપર ફેસિંગવાળું પૃષ્ઠ"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"કૅલેન્ડર"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"ટીઅર-ઑફ કૅલેન્ડર"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"કાર્ડ અનુક્રમણિકા"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"ઉપર તરફ વલણ સાથેનો ચાર્ટ"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"નીચે તરફ વલણ સાથેનો ચાર્ટ"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"બાર ચાર્ટ"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"ક્લિપબોર્ડ"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"પુશપિન"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"રાઉન્ડ પુશપિન"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"પેપરક્લિપ"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"સીધી આંકણી"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"ત્રિકોણાકાર આંકણી"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"બુકમાર્ક ટેબ્સ"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"લેજર"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"નોટબુક"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"સુશોભન કવર સાથે નોટબુક"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"બંધ પુસ્તક"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"ખુલ્લું પુસ્તક"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"લીલું પુસ્તક"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"વાદળી પુસ્તક"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"નારંગી પુસ્તક"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"પુસ્તકો"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"નામ બેજ"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"સ્ક્રોલ"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"મેમો"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"ટેલિફોન રિસીવર"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"પેજર"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"ફેક્સ મશીન"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"સેટેલાઈટ એન્ટેના"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"જાહેર સરનામું લાઉડસ્પીકર"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"ચીઅરિંગ મેગાફોન"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Outbox tray"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"ઇનબૉક્સ ટ્રે"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"પૅકેજ"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"ઇ-મેઇલ પ્રતીક"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"ઇનકમિંગ પરબિડીયું"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"નીચેની તરફના ઉપર એરો સાથેનું પરબિડીયું"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"નમેલા ધ્વજ સાથે બંધ મેઇલબોક્સ"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"ઊઠેલા ધ્વજ સાથે બંધ મેઇલબોક્સ"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"ઊઠેલા ધ્વજ સાથે ખુલ્લું મેઇલબોક્સ"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"નમેલા ધ્વજ સાથે ખુલ્લું મેઇલબોક્સ"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"પોસ્ટબૉક્સ"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"ટપાલ હોર્ન"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"અખબાર"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"મોબાઇલ ફોન"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"ડાબી બાજુએ જમણી તરફનાં એરો સાથેનો મોબાઇલ ફોન"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"વાઇબ્રેશન મોડ"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"મોબાઇલ ફોન બંધ"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"કોઈ મોબાઇલ ફોન નથી"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"બાર સાથે એન્ટેના"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"કૅમેરો"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"વીડિઓ કૅમેરા"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"ટેલિવિઝન"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"રેડિઓ"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"વિડિઓકૅસેટ"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"વળેલા જમણી તરફનાં એરો"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"દક્ષિણાવર્ત જમણેરી અને ડાબેલી ખુલ્લા વર્તુળ એરોઝ"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"વર્તુળાકાર એક ઓવરલે સાથે દક્ષિણાવર્ત જમણેરી અને ડાબેલી ખુલ્લા વર્તુળ એરોઝ"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"દક્ષિણાવર્ત નીચેની તરફના અને ઉપરની તરફના ખુલ્લા વર્તુળ એરોઝ"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"વામાવર્ત નીચેની તરફના અને ઉપરની તરફના ખુલ્લા વર્તુળ એરોઝ"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"ઓછા તેજનું પ્રતીક"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"ઉચ્ચ તેજનું પ્રતીક"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"રદીકરણ સ્ટ્રોક સાથેના સ્પીકર"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"સ્પીકર"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"એક ધ્વનિ લહેર સાથે સ્પીકર"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"ત્રણ ધ્વનિ લહેરો સાથેનું સ્પીકર"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"બૅટરી"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"ઇલેક્ટ્રિક પ્લગ"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"ડાબે-પોઇન્ટ કરતો બૃહદદર્શક કાચ"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"જમણે-પોઇન્ટ કરતો બૃહદદર્શક કાચ"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"ઇંક પેન સાથે તાળું"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"ચાવી સાથેનું બંધ તાળુ"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"કી"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"તાળુ"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"ખુલ્લું તાળું"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"ઘંટડી"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"રદીકરણ સ્ટ્રોક સાથેની ઘંટડી"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"બુકમાર્ક કરો"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"લિંક પ્રતીક"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"રેડિયો બટન"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"ઉપર ડાબી તરફનાં એરો સાથે પાછળ"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"ઉપર ડાબી તરફનાં એરો સાથે અંત"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"ઉપર ડાબા જમણા એરો સાથે આશ્ચર્યચિહ્ન સાથે ચાલુ"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"ઉપર જમણી તરફનાં એરો સાથે જલ્દી"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"શીર્ષ પર ઉપરની તરફનાં એરો સાથે ટોચ"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"અઢારથી નીચેના કોઈપણ નહીંનું પ્રતીક"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"કીકેપ દસ"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"લેટિન કેપિટલ અક્ષરો માટે ઇનપુટનું પ્રતીક"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"લેટિન નાના અક્ષરો માટે ઇનપુટનું પ્રતીક"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"સંખ્યા માટેનું ઇનપુટનું પ્રતીક"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"પ્રતીકો માટેનું ઇનપુટ પ્રતીક"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"લેટિન અક્ષરો માટેના ઇનપુટનું પ્રતીક"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"આગ"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"ઇલેક્ટ્રિક ટોર્ચ"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"સાધન"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"હથોડો"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"નટ અને બોલ્ટ"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"હોચો"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"પિસ્તોલ"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"માઈક્રોસ્કોપ"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"ટેલિસ્કોપ"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"ક્રિસ્ટલ બોલ"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"મધ્યમાં ડોટ સાથે છ પોઇન્ટવાળો તારો"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"પ્રારંભકર્તા માટે જાપાનીઝ પ્રતીક"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"ટ્રાઇડન્ટ પ્રતીક"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"કાળું ચોરસ બટન"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"સફેદ ચોરસ બટન"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"મોટું લાલ વર્તુળ"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"મોટું વાદળી વર્તુળ"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"મોટો નારંગી હીરો"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"મોટો વાદળી હીરો"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"નાનો નારંગી હીરો"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"નાનો વાદળી હીરો"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"ઉપર પોઇન્ટ કરતો લાલ ત્રિકોણ"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"નીચે પોઇન્ટ કરતો લાલ ત્રિકોણ"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"ઉપર પોઇન્ટ કરતો નાનો લાલ ત્રિકોણ"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"નીચે પોઇન્ટ કરતો નાનો લાલ ત્રિકોણ"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"ઘડિયાળમાં એક વાગ્યાનો સમય"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"ઘડિયાળમાં બે વાગ્યાનો સમય"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"ઘડિયાળમાં ત્રણ વાગ્યાનો સમય"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"ઘડિયાળમાં ચાર વાગ્યાનો સમય"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"ઘડિયાળમાં પાંચ વાગ્યાનો સમય"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"ઘડિયાળમાં છ વાગ્યાનો સમય"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"ઘડિયાળમાં સાત વાગ્યાનો સમય"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"ઘડિયાળમાં આઠ વાગ્યાનો સમય"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"ઘડિયાળમાં નવ વાગ્યાનો સમય"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"ઘડિયાળમાં દસ વાગ્યાનો સમય"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"ઘડિયાળમાં અગિયાર વાગ્યાનો સમય"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"ઘડિયાળમાં બાર વાગ્યાનો સમય"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"ઘડિયાળમાં દોઢ વાગ્યાનો સમય"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"ઘડિયાળમાં અઢી વાગ્યાનો સમય"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"ઘડિયાળમાં સાડા ત્રણ વાગ્યાનો સમય"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"ઘડિયાળમાં સાડા ચાર વાગ્યાનો સમય"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"ઘડિયાળમાં સાડા પાંચ વાગ્યાનો સમય"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"ઘડિયાળમાં સાડા છ વાગ્યાનો સમય"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"ઘડિયાળમાં સાડા સાત વાગ્યાનો સમય"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"ઘડિયાળમાં સાડા આઠ વાગ્યાનો સમય"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"ઘડિયાળમાં સાડા નવ વાગ્યાનો સમય"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"ઘડિયાળમાં સાડા દસ વાગ્યાનો સમય"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"ઘડિયાળમાં સાડા અગિયાર વાગ્યાનો સમય"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"ઘડિયાળમાં સાડા બાર વાગ્યાનો સમય"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"માઉન્ટ ફુજી"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"ટોક્યો ટાવર"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"સ્ટેચ્યુ ઑફ લિબર્ટી"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"જાપાનની સિલુએટ"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"મોયાઈ"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"વેદનાભર્યો ચહેરો"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"હસતી આંખો સાથે વેદનાભર્યો ચહેરો"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"આનંદાશ્રુ સાથેનો ચહેરો"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"ખુલ્લા મોં સાથે હસતો ચહેરો"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"ખુલ્લા મોં અને હસતી આંખો સાથેનો હસતો ચહેરો"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"ખુલ્લા મોં અને ઠંડા પરસેવા સાથે હસતો ચહેરો"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"ખુલ્લા મોં અને ચુસ્ત મીંચેલી આંખો સાથેનો હસતો ચહેરો"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"આભામંડળ સાથેનો હસતો ચહેરો"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"શિંગડાવાળો હસતો ચહેરો"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"આંખ મારતો ચહેરો"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"હસતી આંખો સાથેનો હસતો ચહેરો"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"સ્વાદિષ્ટ ખોરાકનો આસ્વાદ લેતો ચહેરો"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"નિરાંત અનુભવતો ચહેરો"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"હૃદયાકારા આંખો સાથેનો હસતો ચહેરો"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"સનગ્લાસેસ સાથેનો હસતો ચહેરો"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"બનાવટી હાસ્યવાળો ચહેરો"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"તટસ્થ ચહેરો"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"ભાવવિહીન ચહેરો"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"નાખુશ ચહેરો"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"ઠંડા પરસેવા સાથેનો ચહેરો"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"વિચારગ્રસ્ત ચહેરો"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"મુંઝાયેલ ચહેરો"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"ચૂપ ચહેરો"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"ચુંબન કરતો ચહેરો"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"ચૂંબન ઉછાળતો ચહેરો"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"હસતી આંખો સાથેનો ચુંબન કરતો ચહેરો"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"બંધ આંખો સાથે ચુંબન કરતો ચહેરો"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"જીબ બહાર કાઢેલો ચહેરો"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"આંખ મારીને જીભ બહાર કાઢેલો ચહેરો"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"ચુસ્ત ભીડેલી આંખો સાથે જીભ બહાર કાઢેલો ચહેરો"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"નિરાશ ચહેરો"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"ચિંતાતુર ચહેરો"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"ક્રોધિત ચહેરો"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"હોઠ બહાર કાઢતો ચહેરો"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"રડતો ચહેરો"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"ખંતીલો ચહેરો"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"વિજેતાના દેખાવ સાથેનો ચહેરો"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"નિરાશ પણ રાહત અનુભવતો ચહેરો"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"ખુલ્લા મોં સાથે નાખુશ ચહેરો"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"સંતાપગ્રસ્ત ચહેરો"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"ભયભીત ચહેરો"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"કંટાળાજનક ચહેરો"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"ઊંઘમાં હોય તેવો ચહેરો"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"થાકેલોચહેરો"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"ધિક્કારતો ચહેરો"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"મોટેથી રડતો ચહેરો"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"ખુલ્લા મોં સાથેનો ચહેરો"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"ચૂપ કરાવેલ ચહેરો"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"ખુલ્લા મોં અને ઠંડા પરસેવા સાથેનો ચહેરો"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"ભયથી ચીસો પાડતો ચહેરો"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"આશ્ચર્યચકિત ચહેરો"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"રતાશવાળો ચહેરો"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"ઊંઘતો ચહેરો"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"ઘેનવાળો ચહેરો"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"મોં વગરનો ચહેરો"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"તબીબી માસ્ક સાથેનો ચહેરો"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"હસતી આંખો સાથેનો વેદનાભર્યો બિલાડીનો ચહેરો"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"આનંદાશ્રુ સાથેનો બિલાડીનો ચહેરો"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"ખુલ્લા મોં સાથે હસતો બિલાડીનો ચહેરો"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"હૃદયાકારા આંખો સાથેનો હસતો બિલાડીનો ચહેરો"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"વક્ર સ્મિત સાથેનો બિલાડીનો ચહેરો"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"બંધ આંખો સાથે ચુંબન કરતો બિલાડીનો ચહેરો"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"હોઠ બહાર કાઢતો બિલાડીનો ચહેરો"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"રડતો બિલાડીનો ચહેરો"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"કંટાળાજનક બિલાડીનો ચહેરો"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"સારું નહીંના હાવભાવ સાથેનો ચહેરો"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"ઓકે હાવભાવ સાથેનો ચહેરો"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"તદ્દન હારેલ વ્યક્તિ"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"ખરાબ-જોશો-નહીંનો વાનર"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"ખરાબ-જોશો-નહીંનો વાનર"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"ખરાબ-બોલશો-નહીંનો વાનર"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"એક હાથ ઉઠાવતો ખુશ વ્યક્તિ"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"ઉજવણીમાં બંને હાથ ઉંચકેલો વ્યક્તિ"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"નાખુશી દર્શાવતી વ્યક્તિ"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"હોઠ બહાર કાઢેલ ચહેરાવાળી વ્યક્તિ"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"હાથની અદબ વાળેલ વ્યક્તિ"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"રોકેટ"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"હેલિકોપ્ટર"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"વરાળ એન્જિન"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"રેલ્વે કાર"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"તીવ્ર-ગતિની ટ્રેન"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"બુલેટ નોઝ વાળી તીવ્ર-ગતિની ટ્રેન"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"ટ્રેન"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"મેટ્રો"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"હળવી રેલ"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"સ્ટેશન"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"ટ્રામ"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"ટ્રામ કાર"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"બસ"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"આવતી બસ"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"ટ્રોલીબસ"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"બસ સ્થાનક"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"મિનિબસ"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"એમ્બ્યુલન્સ"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"ફાયર એન્જિન"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"પોલીસ કાર"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"આવતી પોલીસ કાર"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"ટેક્સી"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"આવતી ટેક્સી"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"ઓટોમોબાઇલ"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"આગામી ઑટોમોબાઇલ"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"મનોરંજન વાહન"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"ડિલીવરી ટ્રક"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"કલાત્મક લૉરી"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"ટ્રેક્ટર"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"મોનોરેલ"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"માઉન્ટેન રેલ્વે"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"સસ્પેન્શન રેલ્વે"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"માઉન્ટેન કેબલવે"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"હવાઈ ​​ટ્રામવે"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"વહાણ"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"તરાપો"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"સ્પીડબોટ"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"આડી ટ્રાફિક લાઇટ"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"ઊભી ટ્રાફિક લાઇટ"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"બાંધકામનું ચિહ્ન"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"પોલીસ કારની ફરતી લાઇટ"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"પોસ્ટ પરનો ત્રિકોણ ધ્વજ"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"દરવાજો"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"પ્રવેશ નહીંનું ચિહ્ન"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"ધૂમ્રપાનનું પ્રતીક"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"ધૂમ્રપાન નિષેધનું પ્રતીક"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"કચરો તેની જગ્યાએ નાખોનું પ્રતીક"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"કચરો કરશો નહીંનું પ્રતીક"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"પીવાનું પાણીનું પ્રતીક"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"પાણી પીવા માટે નથીનું પ્રતીક"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"સાયકલ"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"કોઈ સાયકલ નહીં"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"સાઇકલ સવાર"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"માઉન્ટેન સાઇકલ સવાર"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"પદયાત્રી"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"કોઈ પદયાત્રી નહીં"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"બાળકો માટેનું ક્રોસિંગ"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"પુરુષ પ્રતીક"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"મહિલા પ્રતીક"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"વિશ્રામખંડ"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"બેબી પ્રતીક"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"ટોયલેટ"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"વૉટર ક્લોસેટ"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"શૉવર"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"બાથ"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"બાથટબ"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"પાસપોર્ટ નિયંત્રણ"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"કસ્ટમ્સ"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"સામાનનો દાવો"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"બાકી સામાન"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"બેવડું ઉદ્ગારવાચક ચિહ્ન"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"ઉદ્ગારવાચક પ્રશ્ન ચિહ્ન"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"ટ્રેડ માર્ક સાઇન"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"માહિતી સ્ત્રોત"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"ડાબો-જમણો એરો"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"ઉપર-નીચે એરો"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"ઉત્તર પશ્ચિમ એરો"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"ઉત્તર પૂર્વ એરો"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"દક્ષિણ પૂર્વ એરો"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"દક્ષિણ પશ્ચિમ એરો"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"હૂક સાથે ડાબી તરફનો એરો"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"હૂક સાથે જમણી તરફનો એરો"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"ઘડિયાળ"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"રેતીની ઘડિયાળ"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"કાળો જમણી તરફનો બેવડો ત્રિકોણ"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"કાળો ડાબી તરફનો બેવડો ત્રિકોણ"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"કાળો ઉપરની તરફનો બેવડો ત્રિકોણ"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"કાળો નીચેની તરફનો બેવડો ત્રિકોણ"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"અલાર્મ ઘડિયાળ"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"વહેતી રેતી સાથે રેતીની ઘડિયાળ"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"ગોળાકાર લેટિન કેપિટલ અક્ષર m"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"કાળું નાનું ચોરસ"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"સફેદ નાનું ચોરસ"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"કાળો જમણી તરફનો ત્રિકોણ"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"કાળો ડાબી તરફનો ત્રિકોણ"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"સફેદ મધ્યમ ચોરસ"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"કાળું મધ્યમ ચોરસ"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"સફેદ મધ્યમ નાનું ચોરસ"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"કાળું મધ્યમ નાનું ચોરસ"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"કિરણો સાથેનો કાળો સૂર્ય"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"વાદળ"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"કાળો ટેલિફોન"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"ચેક સાથેની મતપેટી"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"વરસાદના ટીપાં સાથે છત્રી"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"ગરમ પીણું"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"સફેદ ઉપરની તરફનો ઇન્ડેક્સ"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"સફેદ હસતો ચહેરો"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"મેષ"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"વૃષભ"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"મિથુન"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"કર્ક"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"સિંહ"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"કન્યા"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"તુલા"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"વૃશ્ચિક"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"ધનુ"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"મકર"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"કુંભ"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"મીન"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"કાળો સ્પેડ સ્યુટ"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"કાળો ક્લબ સ્યૂટ"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"કાળો હૃદય સ્યુટ"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"કાળો ડાયમન્ડ સ્યૂટ"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"હૉટ સ્પ્રિંગ્સ"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"કાળું યુનિવર્સલ રીસાઇક્લિંગ પ્રતીક"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"વ્હીલચેરનું પ્રતીક"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"સૂત્રધાર"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"ચેતવણીનું ચિહ્ન"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"ઊંચા વોલ્ટેજનું ચિહ્ન"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"મધ્યમ સફેદ વર્તુળ"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"મધ્યમ કાળું વર્તુળ"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"સોકર બૉલ"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"બેસબૉલ"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"બરફ વગરનો હિમમાનવ"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"વાદળ પાછળનો સૂર્ય"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"સર્વધારી રાશિ"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"પ્રવેશ નિષેધ"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"ચર્ચ"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"ફુવારો"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"કાણાંમાં ધ્વજ"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"સઢવાળી નૌકા"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"તંબુ"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"ઈંધણ ભરવાનો પમ્પ"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"કાળી કાતર"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"સફેદ ભારે ચેક માર્ક"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"વિમાન"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"પરબિડીયું"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"ઉઠાવેલો મૂક્કો"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"ઉઠાવેલો હાથ"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"વિજેતા હાથ"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"પેન્સિલ"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"કાળી નીબ"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"ભારે ચેક માર્ક"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"ભારે ગુણાકાર x"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"તણખા"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"આઠ હાથાની ફૂદડી"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"આઠ પોઇન્ટવાળો કાળો તારો"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"સ્નોફ્લેક"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"સ્પાર્કલ"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"ક્રોસ ચિહ્ન"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"નેગેટિવ ચોરસાકાર ક્રોસ ચિહ્ન"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"કાળું પ્રશ્ન ચિહ્ન આભૂષણ"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"સફેદ પ્રશ્ન ચિહ્ન આભૂષણ"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"સફેદ આશ્ચર્યચિહ્ન આભૂષણ"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"ભારે આશ્ચર્યચિહ્નનું પ્રતીક"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"ભારે કાળું હૃદય"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"ભારે વત્તાકાર ચિહ્ન"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"ભારે બાદબાકી ચિહ્ન"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"ભારે ભાગાકાર ચિહ્ન"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"કાળો જમણી તરફનો એરો"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"વાંકડીયા લૂપ"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"બેવડા વાંકડીયા લૂપ"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"જમણી તરફ પોઇન્ટ કરતો અને પછી ઉપર વળી જતો એરો"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"જમણી તરફ પોઇન્ટ કરતો અને પછી નીચે વળી જતો એરો"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"ડાબી તરફનો કાળો એરો"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"ઉપરની તરફનો કાળો એરો"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"નીચેની તરફનો કાળો એરો"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"કાળું મોટું ચોરસ"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"સફેદ મોટું ચોરસ"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"સફેદ મધ્યમ તારો"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"ભારે મોટું વર્તુળ"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"વેવી ડૅશ"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"ભાગ પરિવર્તન ચિહ્ન"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"વર્તુળાકાર આઇડિઓગ્રાફ અભિનંદન"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"વર્તુળાકાર આઇડિઓગ્રાફ રહસ્ય"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"અજાણ્યો ઇમોજી"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"કંટાળેલો ચહેરો"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"ક્ષોભિત ચહેરો"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"ચુંબન કરતો ચહેરો"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"નાખુશ ચહેરો"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"આશ્ચર્યચકિત ચહેરો"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"સનગ્લાસ પહેરેલ ચહેરો"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"કોઈ સૂચન નથી"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"કેપિટલ I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"કેપિટલ I, ઉપર ડોટ"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"કોઈ ટેક્સ્ટ દાખલ કરેલ નથી"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"વૈકલ્પિક અક્ષરો ઉપલબ્ધ છે"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"વૈકલ્પિક સૂચનો ઉપલબ્ધ છે"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"ઉલટાવેલ ઉદ્ગારવાચક ચિહ્ન"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"ડાબી તરફના બેવડા ખૂણાનું અવતરણ ચિહ્ન"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"વચ્ચે ડોટ"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"સુપરસ્ક્રિપ્ટ એક"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"જમણી તરફના બેવડા ખૂણાનું અવતરણ ચિહ્ન"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"ઉલટાવેલ પ્રશ્ન ચિહ્ન"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"ડાબુ એકલ અવતરણ ચિહ્ન"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"જમણું એકલ અવતરણ ચિહ્ન"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"એકલ 9 જેવું અવતરણ ચિહ્ન"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"ડાબું બેવડું અવતરણ ચિહ્ન"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"જમણું બેવડું અવતરણ ચિહ્ન"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"કટાર"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"બેવડી કટાર"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"માઇલ દીઠનું ચિહ્ન"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"પ્રાઇમ"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"ડબલ પ્રાઇમ"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"એકલ ડાબી તરફના ખૂણાનું અવતરણ ચિહ્ન"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"એકલ જમણી તરફના ખૂણાનું અવતરણ ચિહ્ન"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"સુપરસ્ક્રિપ્ટ ચાર"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"સુપરસ્ક્રિપ્ટ લેટિન નાનો અક્ષર n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"પેસો ચિહ્ન"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"કેર ઑફ"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"જમણી તરફનો એરો"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Downwards arrow"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"ખાલી સેટ"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"વધારો"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"આનાથી ઓછું અથવા આની બરાબર"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"આનાથી મોટું અથવા આની બરાબર"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"કાળો તારો"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"અજાણ્યું પ્રતીક"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"પાસવર્ડ કીઝ મોટેથી બોલાતી સાંભળવા માટે હૅડસેટ પ્લગ ઇન કરો."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"ઇમોજી"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"અંગ્રેજી (યુકે)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"અંગ્રેજી (યુ એસ)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"સ્પેનિશ (US)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (કોમ્પેક્ટ)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (પરંપરાગત)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"હિંગ્લિશ"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"ભાષા"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"ભાષા નથી (આલ્ફાબેટ)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"આલ્ફાબેટ (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"આલ્ફાબેટ (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"આલ્ફાબેટ (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"આલ્ફાબેટ (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"આલ્ફાબેટ (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"આલ્ફાબેટ (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"સર્બિયન (લેટિન)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"અંગ્રેજી (યુકે) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"અંગ્રેજી (યુએસ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"સ્પેનિશ (યુએસ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"હિંગ્લિશ (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"સર્બિયન (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"એકાઉન્ટ્સ સ્વિચ કરો"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"હમણા સમન્વયન"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"ડાઉનલોડ કરી રહ્યું છે: <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> માટેનાં સૂચનો ટૂંક સમયમાં તૈયાર હશે."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"સંપર્ક નામ સૂચવો"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"સૂચનો અને સુધારાઓ માટે સંપર્કોમાંથી નામોનો ઉપયોગ કરો"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"જોડણી-પરીક્ષક તમારી સંપર્ક સૂચિમાંથી એન્ટ્રીઝનો ઉપયોગ કરે છે"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"સંપર્ક નામ શોધો"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"ડબલ-સ્પેસ પીરિયડ"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"સ્પેસબાર પર બેવાર ટેપ કરવું એક પીરિયડ અને તેના પછી એક જગ્યા શામેલ કરે છે"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"વ્યક્તિગત સૂચનો"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"સૂચનોને બહેતર બનાવવા માટે તમારા સંચારો અને  લખેલ ડેટાથી જાણો"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" [અ આ ઇ ઈ ઉ ઊ ઋ એ ઐ ઓ ઔ ક ખ ગ ઘ ઙ ચ છ જ ઝ ઞ ટ ઠ ડ ઢ ણ ત થ દ ધ ન પ ફ બ ભ મ ય ર લ વ શ ષ સ હ ળ]"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"ઓકે"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"ઓછા વિકલ્પો"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"વધુ વિકલ્પો"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"શબ્દકોષમાં ઉમેરો"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"ભાષા:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"ઉમેરો"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"શબ્દસમૂહ"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"વૈકલ્પિક શોર્ટકટ"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"શોર્ટકટ:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"એક શબ્દ લખો"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"શબ્દ:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"તમામ"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"કાઢી નાખો"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"સંપાદિત કરો"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"કાઢી નાખો"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"શબ્દ સંપાદિત કરો"</string>
+    <string msgid="6889278304342592383" name="user_dict_settings_empty_text">"તમારી પાસે વપરાશકર્તા શબ્દકોશમાં કોઈપણ શબ્દ નથી. શબ્દને ઉમેરવા માટે, ઉમેરો (+) બટન ટૅપ કરો."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"વધુ ભાષાઓ…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"વપરાશકર્તા શબ્દકોશ"</string>
+    <string msgid="2715354215568469385" name="version_text">"સંસ્કરણ <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"કીપ્રેસ પર વાઇબ્રેટ કરો"</string>
+    <string msgid="3583258583521397548" name="voice_input">"વૉઇસ ઇનપુટ કી"</string>
+    <string msgid="6323489602945135165" name="voice_input_disabled_summary">"કોઈ વૉઇસ ઇનપુટ પદ્ધતિઓ સક્ષમ કરેલ નથી. ભાષાઓ અને ઇનપુટ સેટિંગ્સને ચેક કરો."</string>
+</resources>

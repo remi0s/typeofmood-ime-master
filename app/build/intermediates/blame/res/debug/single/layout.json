@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_keyboard_frame.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\main_keyboard_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_welcome_title.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_welcome_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_welcome_video.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_welcome_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggestions_strip.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\suggestions_strip.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_palettes_view.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\emoji_palettes_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_keyboard_page.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\emoji_keyboard_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\radio_button_preference_widget.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\radio_button_preference_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_dictionary_preference_list_fragment.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\user_dictionary_preference_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_step.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emoji_keyboard_tab_icon.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\emoji_keyboard_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_over_metered.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\download_over_metered.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_start_indicator_label.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_start_indicator_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_steps_title.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_steps_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_keys_keyboard.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\more_keys_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dictionary_line.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\dictionary_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_dictionary_add_word_fullscreen.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\user_dictionary_add_word_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_wizard.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_page.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\loading_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\additional_subtype_dialog.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\additional_subtype_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_keys_keyboard_for_action_lxx.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\more_keys_keyboard_for_action_lxx.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_dictionary_add_word.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\user_dictionary_add_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_steps_cards.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_steps_cards.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_suggestions.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\more_suggestions.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_view.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\input_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seek_bar_dialog.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\seek_bar_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_dictionary_item.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\user_dictionary_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\remio\\.android\\build-cache\\5ffa2415941bc0fb7577ed47702b9c995917af3f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_welcome_screen.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_welcome_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggestion_divider.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\suggestion_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_steps_screen.xml",
+        "source": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\layout\\setup_steps_screen.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-en\\bools.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 42,
+                        "endOffset": 849
+                    }
+                }
+            }
+        ]
+    }
+]

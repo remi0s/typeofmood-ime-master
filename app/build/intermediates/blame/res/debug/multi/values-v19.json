@@ -1,0 +1,364 @@
+[
+    {
+        "outputFile": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 2170,
+                        "startColumn": 4,
+                        "startOffset": 63435,
+                        "endLine": 2241,
+                        "endColumn": 12,
+                        "endOffset": 65474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 4710
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1355,
+                        "startColumn": 4,
+                        "startOffset": 39544,
+                        "endLine": 1452,
+                        "endColumn": 12,
+                        "endOffset": 42197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 4715,
+                    "endLine": 424,
+                    "endColumn": 12,
+                    "endOffset": 13257
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 2452,
+                        "startColumn": 4,
+                        "startOffset": 71599,
+                        "endLine": 2713,
+                        "endColumn": 12,
+                        "endOffset": 80162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 13262,
+                    "endLine": 496,
+                    "endColumn": 12,
+                    "endOffset": 15217
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1933,
+                        "startColumn": 4,
+                        "startOffset": 56673,
+                        "endLine": 2007,
+                        "endColumn": 12,
+                        "endOffset": 58649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 15222,
+                    "endLine": 655,
+                    "endColumn": 12,
+                    "endOffset": 19977
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 2008,
+                        "startColumn": 4,
+                        "startOffset": 58654,
+                        "endLine": 2169,
+                        "endColumn": 12,
+                        "endOffset": 63430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 19982,
+                    "endLine": 902,
+                    "endColumn": 12,
+                    "endOffset": 27741
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1453,
+                        "startColumn": 4,
+                        "startOffset": 42202,
+                        "endLine": 1702,
+                        "endColumn": 12,
+                        "endOffset": 49982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 903,
+                    "startColumn": 4,
+                    "startOffset": 27746,
+                    "endLine": 1129,
+                    "endColumn": 12,
+                    "endOffset": 34406
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1703,
+                        "startColumn": 4,
+                        "startOffset": 49987,
+                        "endLine": 1932,
+                        "endColumn": 12,
+                        "endOffset": 56668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1130,
+                    "startColumn": 4,
+                    "startOffset": 34411,
+                    "endLine": 1339,
+                    "endColumn": 12,
+                    "endOffset": 40535
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1142,
+                        "startColumn": 4,
+                        "startOffset": 33394,
+                        "endLine": 1354,
+                        "endColumn": 12,
+                        "endOffset": 39539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1340,
+                    "startColumn": 4,
+                    "startOffset": 40540,
+                    "endLine": 1546,
+                    "endColumn": 12,
+                    "endOffset": 46634
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 2242,
+                        "startColumn": 4,
+                        "startOffset": 65479,
+                        "endLine": 2451,
+                        "endColumn": 12,
+                        "endOffset": 71594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1547,
+                    "startColumn": 4,
+                    "startOffset": 46639,
+                    "endLine": 1563,
+                    "endColumn": 12,
+                    "endOffset": 47075
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 1122,
+                        "startColumn": 4,
+                        "startOffset": 32932,
+                        "endLine": 1141,
+                        "endColumn": 12,
+                        "endOffset": 33389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1564,
+                    "startColumn": 4,
+                    "startOffset": 47080,
+                    "endLine": 1718,
+                    "endColumn": 12,
+                    "endOffset": 51260
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 12509,
+                        "endLine": 588,
+                        "endColumn": 12,
+                        "endOffset": 16710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1719,
+                    "startColumn": 4,
+                    "startOffset": 51265,
+                    "endLine": 1949,
+                    "endColumn": 12,
+                    "endOffset": 58877
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 888,
+                        "startColumn": 4,
+                        "startOffset": 25294,
+                        "endLine": 1121,
+                        "endColumn": 12,
+                        "endOffset": 32927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1950,
+                    "startColumn": 4,
+                    "startOffset": 58882,
+                    "endLine": 2129,
+                    "endColumn": 12,
+                    "endOffset": 63736
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 5734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2130,
+                    "startColumn": 4,
+                    "startOffset": 63741,
+                    "endLine": 2293,
+                    "endColumn": 12,
+                    "endOffset": 68164
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 589,
+                        "startColumn": 4,
+                        "startOffset": 16715,
+                        "endLine": 755,
+                        "endColumn": 12,
+                        "endOffset": 21159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2294,
+                    "startColumn": 4,
+                    "startOffset": 68169,
+                    "endLine": 2422,
+                    "endColumn": 12,
+                    "endOffset": 72273
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 756,
+                        "startColumn": 4,
+                        "startOffset": 21164,
+                        "endLine": 887,
+                        "endColumn": 12,
+                        "endOffset": 25289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2423,
+                    "startColumn": 4,
+                    "startOffset": 72278,
+                    "endLine": 2648,
+                    "endColumn": 12,
+                    "endOffset": 79022
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\emoji-categories.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endLine": 430,
+                        "endColumn": 12,
+                        "endOffset": 12504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2649,
+                    "startColumn": 4,
+                    "startOffset": 79027,
+                    "endLine": 2651,
+                    "endColumn": 12,
+                    "endOffset": 79139
+                },
+                "from": {
+                    "file": "C:\\Users\\remio\\Desktop\\typeofmood-ime-master\\app\\src\\main\\res\\values-v19\\spinner-style.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 998,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1110
+                    }
+                }
+            }
+        ]
+    }
+]

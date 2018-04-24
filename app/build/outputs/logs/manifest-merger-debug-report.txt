@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:1:1-188:12
+	package
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:5:5-88
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:5:22-85
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:37:5-187:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\remio\.android\build-cache\5ffa2415941bc0fb7577ed47702b9c995917af3f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\remio\.android\build-cache\2b3a63edc30f0b92393ab898ed37c7dc0d106eee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\remio\.android\build-cache\0a2bd975582fb4c52b2066de990854cecf8ad03f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\remio\.android\build-cache\1925368816118d52a5578c18a40cf79b1035f12c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\remio\.android\build-cache\0afc6ff7bd06db7b1043f76f07f5e97be395dd3c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\remio\.android\build-cache\ff4d01a211c4c6d1be4b0beef987416804851ecc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\remio\.android\build-cache\d749590be8f9c779e7609bf5570934252e13df29\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\remio\.android\build-cache\d67bd8d7cf9d19d46913f8f956df061e7130ddfc\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\remio\.android\build-cache\e88af62a076051d2ac85cc5d2ac306186c50e709\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:40:9-41
+	android:supportsRtl
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:41:9-35
+	android:allowBackup
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:39:9-43
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:42:9-40
+service#typeofmood.ime.latin.LatinIME
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:45:9-55:19
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:47:13-56
+	android:permission
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:48:13-70
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:46:13-57
+intent-filter#android.view.InputMethod
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:49:13-51:29
+action#android.view.InputMethod
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:50:17-67
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:50:25-64
+meta-data#android.view.im
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:52:13-54:50
+	android:resource
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:54:17-47
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:53:17-47
+service#typeofmood.ime.latin.spellcheck.AndroidSpellCheckerService
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:57:9-67:19
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:59:13-56
+	android:permission
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:60:13-70
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:58:13-86
+intent-filter#android.service.textservice.SpellCheckerService
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:61:13-63:29
+action#android.service.textservice.SpellCheckerService
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:62:17-90
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:62:25-87
+meta-data#android.view.textservice.scs
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:64:13-66:56
+	android:resource
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:66:17-53
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:65:17-60
+service#typeofmood.ime.dictionarypack.DictionaryService
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:69:9-71:63
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:71:13-60
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:70:13-61
+activity#typeofmood.ime.latin.setup.SetupActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:74:9-85:20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:77:13-56
+	android:launchMode
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:78:13-44
+	android:noHistory
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:79:13-37
+	android:icon
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:76:13-58
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:80:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:75:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:81:13-84:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:82:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:83:27-74
+activity#typeofmood.ime.latin.permissions.PermissionsActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:87:9-91:75
+	android:exported
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:89:13-37
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:91:13-72
+	android:taskAffinity
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:90:13-36
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:88:13-66
+activity#typeofmood.ime.latin.setup.SetupWizardActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:93:9-101:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:95:13-45
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:96:13-56
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:97:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:94:13-74
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:98:13-100:29
+activity#typeofmood.ime.latin.settings.SettingsActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:103:9-110:20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:105:13-57
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:106:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:104:13-74
+activity#typeofmood.ime.latin.spellcheck.SpellCheckerSettingsActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:112:9-119:20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:114:13-67
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:115:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:113:13-74
+activity#typeofmood.ime.dictionarypack.DictionarySettingsActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:123:13-62
+	android:uiOptions
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:125:13-57
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:124:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:122:13-70
+activity#typeofmood.ime.dictionarypack.DownloadOverMeteredDialog
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:131:9-138:20
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:133:13-83
+	android:theme
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:134:13-57
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:132:13-69
+activity#typeofmood.ime.latin.settings.TestFragmentActivity
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:141:9-143:40
+	android:exported
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:143:13-37
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:142:13-64
+receiver#typeofmood.ime.latin.SystemBroadcastReceiver
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:146:9-153:20
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:146:19-64
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.MY_PACKAGE_REPLACED+android.intent.action.USER_INITIALIZE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:147:13-152:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:148:17-84
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:148:25-81
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:149:17-79
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:149:25-76
+action#android.intent.action.USER_INITIALIZE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:150:17-80
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:150:25-77
+action#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:151:17-79
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:151:25-76
+receiver#typeofmood.ime.latin.DictionaryPackInstallBroadcastReceiver
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:155:9-161:20
+	android:exported
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:156:13-73
+intent-filter#typeofmood.ime.dictionarypack.aosp.UNKNOWN_CLIENT
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:158:13-160:29
+action#typeofmood.ime.dictionarypack.aosp.UNKNOWN_CLIENT
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:159:17-92
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:159:25-89
+receiver#typeofmood.ime.dictionarypack.EventHandler
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:163:9-170:20
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:163:19-76
+intent-filter#android.intent.action.DATE_CHANGED+android.intent.action.DOWNLOAD_COMPLETE+typeofmood.ime.dictionarypack.aosp.INIT_AND_UPDATE_NOW+typeofmood.ime.dictionarypack.aosp.UPDATE_NOW
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:164:13-169:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:165:17-82
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:165:25-79
+action#android.intent.action.DATE_CHANGED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:166:17-77
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:166:25-74
+action#typeofmood.ime.dictionarypack.aosp.UPDATE_NOW
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:167:17-88
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:167:25-85
+action#typeofmood.ime.dictionarypack.aosp.INIT_AND_UPDATE_NOW
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:168:17-97
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:168:25-94
+receiver#typeofmood.ime.latin.accounts.AccountsChangedReceiver
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:173:9-177:20
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:173:19-87
+intent-filter#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:174:13-176:29
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:175:17-82
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:175:25-79
+provider#typeofmood.ime.dictionarypack.DictionaryProvider
+ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:180:9-186:44
+	android:authorities
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:182:13-52
+	android:grantUriPermissions
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:184:13-47
+	android:label
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:185:13-61
+	android:multiprocess
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:186:13-41
+	android:exported
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:183:13-37
+	android:name
+		ADDED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml:181:13-76
+uses-sdk
+INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\remio\.android\build-cache\5ffa2415941bc0fb7577ed47702b9c995917af3f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\remio\.android\build-cache\2b3a63edc30f0b92393ab898ed37c7dc0d106eee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\remio\.android\build-cache\0a2bd975582fb4c52b2066de990854cecf8ad03f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\remio\.android\build-cache\1925368816118d52a5578c18a40cf79b1035f12c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\remio\.android\build-cache\0afc6ff7bd06db7b1043f76f07f5e97be395dd3c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\remio\.android\build-cache\ff4d01a211c4c6d1be4b0beef987416804851ecc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\remio\.android\build-cache\d749590be8f9c779e7609bf5570934252e13df29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\remio\.android\build-cache\d67bd8d7cf9d19d46913f8f956df061e7130ddfc\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\remio\.android\build-cache\e88af62a076051d2ac85cc5d2ac306186c50e709\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\remio\.android\build-cache\5ffa2415941bc0fb7577ed47702b9c995917af3f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remio\Desktop\typeofmood-ime-master\app\src\main\AndroidManifest.xml
